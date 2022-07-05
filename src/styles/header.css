@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,400;1,300&family=Gantari&family=Monoton&family=Montserrat:wght@100&family=Oswald:wght@700&family=Roboto:wght@300&family=Titillium+Web:wght@200&display=swap');
+
+.header{
+    display: flex;
+    place-content: center center;
+}
+
+.header h1 {
+    font-family: 'Titillium Web', sans-serif;
+    
+    color: whitesmoke;
+}
