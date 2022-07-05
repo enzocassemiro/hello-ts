@@ -1,7 +1,6 @@
 # Hello TypeScript
-Projeto com simples contador para demonstrar como inicializar e configurar um projeto com HTML e TypeScript.
+Projeto com contador para demonstrar como inicializar e configurar um projeto com HTML e TypeScript.
 
----
 - ## Passo a passo
 
 ### - 1 Verificar/Instalar NodeJS
@@ -82,8 +81,6 @@ Execute o seguinte comando no terminal podemos gerar o arquivo JS compilado
 Caso você desenvolva um arquivo `/src/index.ts` ele será gerado no caminho indicado no passo 4 `./dist/js/index.js`
 
 - #### Dica: Utilize o comando `tsc -w` para live-reload na compilação
-
----
 
 ## Documentações utilizadas:
 
