@@ -3,6 +3,8 @@
 .header{
     display: flex;
     place-content: center center;
+    align-items: center;
+    height: 5vh;
 }
 
 .header h1 {

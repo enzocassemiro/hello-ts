@@ -10,7 +10,7 @@ main {
     place-content: center center;
     align-items: center;
 
-    height: 100%;
+    height: 95vh;
 }
 
 main h2 {
